@@ -1,17 +1,6 @@
 # Data-science-projects
 
-Two days ago I decided to creat a new account dedicated solely to my data science projects so here I go
+Right now only half of the 1st workbook (out of 2) is uploaded, the second half of the first workbook will be finished on Sep 25th 
 
-As for the lack of content please notice this repository is under under construction right now :)
 
-Soon I will upload my older projects and upload new content as well so stay tuned
-
-Until the end of this week I will reupload:
-'Customer analysis and segmentation' 
-as well as a project about 
-'Credit risk modelling'
-
-Next week I am planning to upload 3 more short projects and some new content
-
-Cheers,
-Akos
+The script was written in Jupyter Notebook however some of the text is messed up when opened directly on Github
